@@ -1,66 +1,182 @@
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gabrielsuarezz.visitor-badge&left_color=red&right_color=green&left_text=visitors">
+```
+ ██████╗  █████╗ ██████╗ ██████╗ ██╗███████╗██╗     
+██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██║     
+██║  ███╗███████║██████╔╝██████╔╝██║█████╗  ██║     
+██║   ██║██╔══██║██╔══██╗██╔══██╗██║██╔══╝  ██║     
+╚██████╔╝██║  ██║██████╔╝██║  ██║██║███████╗███████╗
+ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝
+```
+
+```
+-========-=-----------==--=++===-==---=-
+--==========--=========---=++======---==        guest@gabriel:~$ neofetch
+--=======-=-------==------=++======---==       ────────────────────────────────────
+:-----------::---------::--===------:--=        OS      Florida International University
+.:::-=======-====----:::.::---::::::.::-        Kernel  B.S. Computer Science (3.5 GPA)
+.:::=*******#*+==:::::::.:----::::::.:::        Uptime  Graduating July 2026
+.:--+#+----++:. .........:-==------:.:::        Shell   Python / TypeScript / Java
+.:-:=#+-::--.....  ..    .-==------:.:::        DE      VS Code + Terminal
+.:-:=#+-=+*. ..-:... .    .==------:::--        Theme   Dark Mode (obviously)
+::--=#+--+*: .::::=-::::  :==------:.::-        CPU     AI/ML @ 100% utilization
+:---+#+----+::+++=+=-=+=:--==--:::::.:::        GPU     Computer Vision Ready
+::--=#+-:--+*==-:-==-:--:--==-::::::.:--       ────────────────────────────────────
+::--=#+----+#+---===---:.-===-====-:.:--        Location   Miami, FL
+::--=**********=--==-:.:.:-==-====-:.:::        Status     🟢 Open to Opportunities
+++++*##########*::....-:  .-=++***++++++       ────────────────────────────────────
+###########*+=-..=----:. ..:::--=++**###
+********+=-::::  .==:   ..:::::::::::-*#
+++=====-::::::  .      .::::::::::::..=#
+++=====::::::..........:---::::::::..::*
+**+***=::::-:..........:--:::::::......:
+#***#*-::::-:.........::-::::..........
+#**##+:::::-. ....  ..:::.:.......:....
+```
+
+---
+
+## `$ cat about.txt`
+
+```
+> AI/ML Engineer & Full-Stack Developer building intelligent systems.
+> 2x Hackathon Winner | 4 Projects Shipped | Always building something new.
+> I don't just write code — I engineer solutions that win.
+```
+
+---
+
+## `$ ls -la ./skills/`
+
+```
+drwxr-xr-x  Languages/
+    ├── Python ████████████████████░░  
+    ├── TypeScript █████████████████░░░
+    ├── JavaScript █████████████████░░░
+    ├── Java   ████████████████░░░░░░
+    └── C      ██████████████░░░░░░░░
+
+drwxr-xr-x  AI_&_ML/
+    ├── TensorFlow / Keras
+    ├── scikit-learn
+    ├── OpenCV
+    ├── MediaPipe
+    ├── YOLOv8
+    └── Google Gemini
+
+drwxr-xr-x  Frontend/
+    ├── React
+    ├── Next.js
+    └── Tailwind CSS
+
+drwxr-xr-x  Backend/
+    ├── FastAPI
+    ├── Flask
+    ├── Node.js / Express
+    └── WebSocket
+
+drwxr-xr-x  Data/
+    ├── MySQL
+    ├── MongoDB
+    ├── Firebase
+    └── Supabase
+
+drwxr-xr-x  Hardware/
+    └── Arduino
+```
+
+---
+
+## `$ cat ./projects/hackathons.json`
+
+| Project | Hackathon | Result | Description | Stack |
+|---------|-----------|--------|-------------|-------|
+| 🏆 **[Voxtant](https://github.com/gabrielsuarezz/Voxtant)** | PlutoHacks 2025 | **Best Overall** | AI interview coach with real-time feedback on content, STAR structure & delivery. Privacy-first on-device EQ analysis. | `Next.js` `FastAPI` `OpenCV` `MediaPipe` `Gemini` |
+| 🏆 **[HeliosAI](https://github.com/pablomoli/helios)** | Knight Hacks VIII | **MLH Best Use of Arm** | Solar tracker with Arduino + AI dashboard + conversational voice agent for sustainable energy education. | `Arduino` `Flask` `Python` `Gemini` `WebSocket` |
+| 👁️ **[Shadow Vision](https://github.com/pablomoli/Shadow-Vision)** | ShellHacks 2025 | Submitted | CV-powered shadow puppet recognition with custom ML dataset + real-time TouchDesigner visuals. | `Python` `OpenCV` `MediaPipe` `scikit-learn` `Docker` |
+| 🎥 **[ViewGuard](https://github.com/LeoSadoun/ViewGuard)** | SharkByte 2025 | Submitted | Real-time CCTV theft/vandalism detection with multi-camera AI dashboard + voice assistant. | `Next.js` `YOLOv8` `TensorFlow.js` `Gemini` `ElevenLabs` |
+
+---
+
+## `$ ./connect.sh`
+
+```bash
+#!/bin/bash
+
+LINKEDIN="https://linkedin.com/in/gabrielsuarezz"
+EMAIL="gabrielsc0513@gmail.com"
+PORTFOLIO="https://gabrielsuarez.dev"
+
+echo "Let's build something together."
+```
+
+<p align="left">
+<a href="https://linkedin.com/in/gabrielsuarezz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:gabrielsc0513@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://gabrielsuarez.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
-<h1 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=1000&color=008000&center=true&vCenter=true&random=false&width=500&lines=Hello!%F0%9F%91%8B;I'm+Gabriel+Suarez" alt="Typing SVG" />
-    </a>
-</h1>
+---
 
-<h1 align="center" margin-bottom:'10px'>Full Stack Software Engineer</h1>
+## `$ git log --oneline`
 
-<br />
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielsuarezz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+</p>
 
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsuarezz&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
 
-<br />
-<div align="center">
-    🎓 I'm currently studying at <strong>Florida International University: B.S in Computer Science(GPA: 3.5/4.0)</strong><br /><br />
-    🌱 I'm actively learning <strong>Advanced Data Structures, Computer Architecture, and Machine Learning Techniques</strong><br /><br />
-    👯 I'm open to collaborative projects in <strong>Full-Stack Development, AI Model Training and Web Developmet</strong><br /><br />
-    📚 I'm certified in <strong>Python, C#, Java, JavaScript, React, Next.js, Tailwind, Typescript, MySQl, HTML & CSS</strong></br /><br />
-</div>
-<br />
-<div align="center">
-  <a href="mailto:gabrielsc0513@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red target="_blank" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabrielsuarezz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://discord.gg/init" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
-  </a>
-    <a href="https://www.linkedin.com/in/gabrielsuarezz/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsuarezz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
 
-<br />
+---
 
-<h2 align="center">🛠️Languages-Frameworks-Tools🛠️</h2>
-<br />
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,firebase,mongodb,c,java"/><br />
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git"/>
-  </a>
-</div>
-
-<br />
-
-<h2 align="center">⚡ Stats ⚡</h2>
-
+<details>
+<summary><code>$ cat ./easter_egg.txt</code> 👀</summary>
 <br>
-<div align=center>
 
-  <img width="420" height="165" src="https://streak-stats.demolab.com/?user=gabrielsuarezz&theme=react&border_radius=10" alt="streak stats"/>
+```
+ ___________________________________________
+< You found the secret. I like you already. >
+ -------------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=gabrielsuarezz&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsuarezz&Langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+Fun facts:
+→ This ASCII art was generated from my actual LinkedIn photo
+→ I've won 2 hackathons and I'm just getting started
+→ I built a solar tracker that physically rotates toward light
+→ My interview coach app does on-device emotion detection
 
-  </div>
+If you're a recruiter who found this — let's chat.
+I appreciate people who read the fine print.
+```
 
-<br/><br/>
-<br/>
+</details>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=gabrielsuarezz&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
+
+<p align="center">
+<sub>Built different. Powered by ☕ and curiosity.</sub>
+</p>
+
+<!--
+================================================
+SYSTEM BOOT SEQUENCE
+================================================
+[OK] Loading personality.sys
+[OK] Mounting curiosity.drive
+[OK] Starting coffee.service
+[OK] Initializing problem-solving protocols
+[OK] AI/ML modules loaded
+[OK] Ready to ship production code
+================================================
+-->
