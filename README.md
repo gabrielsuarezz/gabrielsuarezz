@@ -1,182 +1,169 @@
-```
- ██████╗  █████╗ ██████╗ ██████╗ ██╗███████╗██╗     
-██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██║     
-██║  ███╗███████║██████╔╝██████╔╝██║█████╗  ██║     
-██║   ██║██╔══██║██╔══██╗██╔══██╗██║██╔══╝  ██║     
-╚██████╔╝██║  ██║██████╔╝██║  ██║██║███████╗███████╗
- ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝
-```
-
-```
--========-=-----------==--=++===-==---=-
---==========--=========---=++======---==        guest@gabriel:~$ neofetch
---=======-=-------==------=++======---==       ────────────────────────────────────
-:-----------::---------::--===------:--=        OS      Florida International University
-.:::-=======-====----:::.::---::::::.::-        Kernel  B.S. Computer Science (3.5 GPA)
-.:::=*******#*+==:::::::.:----::::::.:::        Uptime  Graduating July 2026
-.:--+#+----++:. .........:-==------:.:::        Shell   Python / TypeScript / Java
-.:-:=#+-::--.....  ..    .-==------:.:::        DE      VS Code + Terminal
-.:-:=#+-=+*. ..-:... .    .==------:::--        Theme   Dark Mode (obviously)
-::--=#+--+*: .::::=-::::  :==------:.::-        CPU     AI/ML @ 100% utilization
-:---+#+----+::+++=+=-=+=:--==--:::::.:::        GPU     Computer Vision Ready
-::--=#+-:--+*==-:-==-:--:--==-::::::.:--       ────────────────────────────────────
-::--=#+----+#+---===---:.-===-====-:.:--        Location   Miami, FL
-::--=**********=--==-:.:.:-==-====-:.:::        Status     🟢 Open to Opportunities
-++++*##########*::....-:  .-=++***++++++       ────────────────────────────────────
-###########*+=-..=----:. ..:::--=++**###
-********+=-::::  .==:   ..:::::::::::-*#
-++=====-::::::  .      .::::::::::::..=#
-++=====::::::..........:---::::::::..::*
-**+***=::::-:..........:--:::::::......:
-#***#*-::::-:.........::-::::..........
-#**##+:::::-. ....  ..:::.:.......:....
-```
-
----
-
-## `$ cat about.txt`
-
-```
-> AI/ML Engineer & Full-Stack Developer building intelligent systems.
-> 2x Hackathon Winner | 4 Projects Shipped | Always building something new.
-> I don't just write code — I engineer solutions that win.
-```
-
----
-
-## `$ ls -la ./skills/`
-
-```
-drwxr-xr-x  Languages/
-    ├── Python ████████████████████░░  
-    ├── TypeScript █████████████████░░░
-    ├── JavaScript █████████████████░░░
-    ├── Java   ████████████████░░░░░░
-    └── C      ██████████████░░░░░░░░
-
-drwxr-xr-x  AI_&_ML/
-    ├── TensorFlow / Keras
-    ├── scikit-learn
-    ├── OpenCV
-    ├── MediaPipe
-    ├── YOLOv8
-    └── Google Gemini
-
-drwxr-xr-x  Frontend/
-    ├── React
-    ├── Next.js
-    └── Tailwind CSS
-
-drwxr-xr-x  Backend/
-    ├── FastAPI
-    ├── Flask
-    ├── Node.js / Express
-    └── WebSocket
-
-drwxr-xr-x  Data/
-    ├── MySQL
-    ├── MongoDB
-    ├── Firebase
-    └── Supabase
-
-drwxr-xr-x  Hardware/
-    └── Arduino
-```
-
----
-
-## `$ cat ./projects/hackathons.json`
-
-| Project | Hackathon | Result | Description | Stack |
-|---------|-----------|--------|-------------|-------|
-| 🏆 **[Voxtant](https://github.com/gabrielsuarezz/Voxtant)** | PlutoHacks 2025 | **Best Overall** | AI interview coach with real-time feedback on content, STAR structure & delivery. Privacy-first on-device EQ analysis. | `Next.js` `FastAPI` `OpenCV` `MediaPipe` `Gemini` |
-| 🏆 **[HeliosAI](https://github.com/pablomoli/helios)** | Knight Hacks VIII | **MLH Best Use of Arm** | Solar tracker with Arduino + AI dashboard + conversational voice agent for sustainable energy education. | `Arduino` `Flask` `Python` `Gemini` `WebSocket` |
-| 👁️ **[Shadow Vision](https://github.com/pablomoli/Shadow-Vision)** | ShellHacks 2025 | Submitted | CV-powered shadow puppet recognition with custom ML dataset + real-time TouchDesigner visuals. | `Python` `OpenCV` `MediaPipe` `scikit-learn` `Docker` |
-| 🎥 **[ViewGuard](https://github.com/LeoSadoun/ViewGuard)** | SharkByte 2025 | Submitted | Real-time CCTV theft/vandalism detection with multi-camera AI dashboard + voice assistant. | `Next.js` `YOLOv8` `TensorFlow.js` `Gemini` `ElevenLabs` |
-
----
-
-## `$ ./connect.sh`
-
-```bash
-#!/bin/bash
-
-LINKEDIN="https://linkedin.com/in/gabrielsuarezz"
-EMAIL="gabrielsc0513@gmail.com"
-PORTFOLIO="https://gabrielsuarez.dev"
-
-echo "Let's build something together."
-```
-
-<p align="left">
-<a href="https://linkedin.com/in/gabrielsuarezz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:gabrielsc0513@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://gabrielsuarez.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Gabriel+Suarez+%F0%9F%91%8B;AI%2FML+Engineer;Full-Stack+Developer;2x+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
 </p>
 
----
-
-## `$ git log --oneline`
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielsuarezz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+<p align="center">
+  <a href="https://linkedin.com/in/gabrielsuarezz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:gabrielsc0513@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://gabrielsuarez.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsuarezz&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsuarezz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</p>
-
----
-
-<details>
-<summary><code>$ cat ./easter_egg.txt</code> 👀</summary>
 <br>
 
-```
- ___________________________________________
-< You found the secret. I like you already. >
- -------------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+<p align="center">
+<pre>
+⠀⠀⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⣿⣿⣟⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠛⠉⠀⠀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⠀⠀⣹⣿⣿⣿⣦
+⣶⣶⣄⠀⠀⢠⣤⣤⣤⣤⣴⣶⣶⣤⣴⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⠀⠀⠀⣤⣤⣤⣤⣼⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⠀⠀⢿⣿⣿⣿⣿
+⣿⣿⡏⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⢀⣿⠉⠛⠛⠁⠀⠀⢸⣿⣿⣿⣿
+⣿⣿⡇⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⢀⣾⣿⣶⣶⣤⣄⠀⠀⣸⣿⣿⣿⣿
+⣿⣿⣷⣤⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⡿⠋⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠛⠋⠉⠛⠛⠛⠛⠛⠛⠛⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⢀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠀⠀⠀⠀⣤⣤⣤⣤⣤⣤⠀⠀⠀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⠀⢀⣪⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠀⠀⠀⠀⣿⣿⣿⣿⡿⠿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠀⠀⠀⠀⣿⣿⠁⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⠻⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠀⠀⠀⠀⣿⣿⣄⡀⠀⠀⣹⣿⣿⣿⣿⣿⣷⣶⣶⣾⣿⡿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠀⠀⠀⠀⣿⣿⣿⣿⣷⣦⠿⣿⣿⣿⡿⠛⠻⠿⠿⠟⠟⠀⠘⠿⠿⠿⠛⠛⠛⣿⣿⣿⣿⣿⠃⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠀⠀⠀⠀⣿⣿⣿⣿⣿⡇⠀⠘⣿⣿⠀⠀⠀⠀⢀⣠⠂⠀⠀⢺⣦⣄⠀⠀⢀⣿⣿⣿⣿⣿⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⠀⠀⠈⠙⡇⣠⣤⣴⣿⠏⠻⢶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣠⣿⣿⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⠀⠀⠀⠐⢿⣿⡿⣿⣿⡟⠛⠋⠉⣉⣉⣿⢿⣫⣿⣿⣿⣿⣿⡟⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⢸⣿⣿⣾⠀⠉⠉⢉⣉⣩⣿⡇⢸⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⣿⣿⠁⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠀⠀⠀⠀⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠉⠻⣿⣆⠀⠉⠛⠛⠛⠉⣠⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⣿⣿⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣷⣦⣤⣤⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣵⢄⠀⣠⣿⡿⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿
+</pre>
+</p>
 
-Fun facts:
-→ This ASCII art was generated from my actual LinkedIn photo
-→ I've won 2 hackathons and I'm just getting started
-→ I built a solar tracker that physically rotates toward light
-→ My interview coach app does on-device emotion detection
+---
 
-If you're a recruiter who found this — let's chat.
-I appreciate people who read the fine print.
-```
+## 👋 About Me
 
-</details>
+I'm a Computer Science student at **Florida International University** passionate about building intelligent systems that solve real problems. I specialize in **AI/ML** and **Full-Stack Development**, and I've won **2 hackathons** in the past year.
+
+<table>
+<tr>
+<td>
+
+📍 **Location:** Miami, FL
+
+🎓 **Education:** B.S. Computer Science @ FIU
+
+📊 **GPA:** 3.5 / 4.0
+
+🎯 **Graduating:** July 2026
+
+💼 **Status:** Open to Opportunities
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielsuarezz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=6366F1" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Hackathon Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🥇 Voxtant — *Best Overall Winner*
+**PlutoHacks 2025**
+
+AI-powered interview coach that gives you real-time feedback on your answers, structure, and delivery. Uses on-device emotion detection for complete privacy.
+
+[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielsuarezz/Voxtant)
+
+</td>
+<td width="50%" valign="top">
+
+### 🥇 HeliosAI — *MLH Best Use of Arm*
+**Knight Hacks VIII**
+
+Smart solar tracker with Arduino that physically follows the sun. Includes an AI dashboard and voice assistant for sustainable energy education.
+
+[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pablomoli/helios)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ Shadow Vision
+**ShellHacks 2025**
+
+Computer vision system that recognizes hand shadow puppets in real-time. Built a custom ML dataset from scratch and connected it to live visual effects.
+
+[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pablomoli/Shadow-Vision)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎥 ViewGuard
+**SharkByte 2025**
+
+Real-time security system that detects theft and vandalism across multiple cameras using AI, with instant alerts and a voice assistant interface.
+
+[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeoSadoun/ViewGuard)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsuarezz&theme=tokyonight&hide_border=true&background=0d1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsuarezz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1" width="41%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielsuarezz&bg_color=0d1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="95%" />
+</p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=gabrielsuarezz&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=gabrielsuarezz&color=6366F1&style=flat-square&label=Profile+Views" />
 </p>
 
 <p align="center">
-<sub>Built different. Powered by ☕ and curiosity.</sub>
+  <i>💡 I'm always open to collaborating on innovative projects — let's build something amazing!</i>
 </p>
-
-<!--
-================================================
-SYSTEM BOOT SEQUENCE
-================================================
-[OK] Loading personality.sys
-[OK] Mounting curiosity.drive
-[OK] Starting coffee.service
-[OK] Initializing problem-solving protocols
-[OK] AI/ML modules loaded
-[OK] Ready to ship production code
-================================================
--->
