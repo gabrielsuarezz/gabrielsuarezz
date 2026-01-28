@@ -1,26 +1,30 @@
-<table>
-<tr>
-<td width="45%" align="center">
-<img src="ascii-portrait.png" alt="ASCII Portrait" width="350"/>
-</td>
-<td width="55%" valign="middle">
+<p align="center">
+  <img src="matrix-portrait.gif" alt="Matrix ASCII Portrait" width="400"/>
+</p>
 
-# Gabriel Suarez
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=4DB6AC&center=true&vCenter=true&random=false&width=435&lines=%24+whoami;Gabriel+Suarez;%24+cat+role.txt;AI%2FML+Engineer+%7C+Full-Stack+Dev;%24+echo+%24ACHIEVEMENTS;2x+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+</p>
 
-**AI/ML Engineer | Full-Stack Developer | 2x Hackathon Winner 🏆**
+<p align="center">
+  <a href="https://linkedin.com/in/gabrielsuarezz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:gabrielsc0513@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://gabrielsuarez.dev"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=4DB6AC" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=gabrielsuarezz&color=4DB6AC&style=for-the-badge&label=VISITORS" />
+</p>
 
-📍 Miami, FL  
-🎓 B.S. Computer Science @ FIU (3.5 GPA)  
-🎯 Graduating July 2026  
-💼 **Open to Opportunities**
+---
 
-<a href="https://linkedin.com/in/gabrielsuarezz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:gabrielsc0513@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://gabrielsuarez.dev"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white" /></a>
-
-</td>
-</tr>
-</table>
+```javascript
+const gabriel = {
+    location: "Miami, FL",
+    education: "B.S. Computer Science @ FIU",
+    gpa: "3.5 / 4.0",
+    graduation: "July 2026",
+    focus: ["AI/ML", "Computer Vision", "Full-Stack Development"],
+    status: "🟢 Open to Opportunities"
+};
+```
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsuarezz&theme=react&hide_border=true&background=0d1117&ring=4DB6AC&fire=4DB6AC&currStreakLabel=4DB6AC" height="150"/>
@@ -74,9 +78,5 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielsuarezz&bg_color=0d1117&color=4DB6AC&line=4DB6AC&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=gabrielsuarezz&color=4DB6AC&style=flat-square&label=Profile+Views" />
+<img src="https://raw.githubusercontent.com/gabrielsuarezz/gabrielsuarezz/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
