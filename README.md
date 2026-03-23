@@ -28,7 +28,7 @@ const gabriel = {
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsuarezz&theme=react&hide_border=true&background=0d1117&ring=4DB6AC&fire=4DB6AC&currStreakLabel=4DB6AC" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsuarezz&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=4DB6AC&text_color=FFFFFF" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsuarezz&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=4DB6AC&text_color=FFFFFF&exclude_repo=viewguard-deploy,viewguard-deployment" height="150"/>
 </p>
 
 ---
